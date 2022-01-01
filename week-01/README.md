@@ -1,6 +1,6 @@
 The following folder contains the assignment for week 01.
 
-<h3>Objective<h3>
+<h3>Objective</h3>
 
 Learning how to clean data and to investigate distributions. Make a Jupyter Notebook, put it on GitHub and make a link to it.
 
