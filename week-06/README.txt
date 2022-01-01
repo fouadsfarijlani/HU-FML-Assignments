@@ -1,10 +1,10 @@
 The following folder contains the assignment for week 06.
 
-Given:
+<h3>Given:</h3>
 
 In this assignment, you are going to use text mining to predict the rating of a dress from online reviews.
 
-Objective
+<h3>Objective</h3>
 
 Predict whether dresses reviews are positive (>3 stars) or neutral/negative (<4 stars). Write a Jupyter Notebook report documenting your investigation.
 
