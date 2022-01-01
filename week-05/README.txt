@@ -1,12 +1,12 @@
 The following folder contains the assignment for week 05.
 
-Given:
+<h3>Given:</h3>
 
 In this assignment, you are going to apply what you learned about machine learning to a dataset of your choice on Kaggle (Links to an external site.).
 Kaggle is an online platform where data scientists can find datasets and enter competitions to predict certain outcomes. 
 In these competitions, Kaggle users can download data and create their model.
 
-Objective
+<h3>Objective</h3>
 
 Predict the outcomes in a data set using either Random Forest, Decision Tree or k-NN. Write a Jupyter Notebook report documenting your investigation.
 
