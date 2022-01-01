@@ -1,4 +1,4 @@
-Objective
+<h3>Objective</h3>
 
 Exploring a numerical variable and its interaction with multiple variables, both numerical and categorical. 
 Make a Jupyter Notebook, put it on GitHub and make a link to it.
