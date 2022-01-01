@@ -19,7 +19,7 @@ Citation:
 Hermsen, S., Moons, J., Kerkhof, P., Wiekens, C., & De Groot, M. (2017). 
 Determinants for sustained use of an activity tracker: observational study. JMIR mHealth and uHealth, 5(10).
 
-Assignment
+Assignment:
 
 Make a Notebook with the following elements. Please add sufficient comments: not just explaining what you are doing, but why you are doing it.
 
