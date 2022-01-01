@@ -1,6 +1,6 @@
 The following folder contains the assignment for week 03.
 
-Given:
+<h3>Given:</h3>
 
 In this assignment, we will use data from Mashable (www.mashable.com). Mashable is an online magazine that focuses on producing viral content. 
 You may wonder: what makes an article go viral? That’s what you will be trying to find out!
@@ -8,7 +8,7 @@ You may wonder: what makes an article go viral? That’s what you will be trying
 You use linear regression to predict the (log) number of shares from the other variables. 
 Note that all variables can be calculated before an article is put online. Thus, Mashable could use your model to predict the (log) number of shares.
 
-Objective
+<h3>Objective</h3>
 
   - Build a linear regression model to predict the log number of shares an article received.
   
